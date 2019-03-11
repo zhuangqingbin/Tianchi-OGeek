@@ -1,4 +1,5 @@
 # 天池大数据竞赛平台-OGeek算法挑战赛（实时搜索场景下搜索结果ctr预估）
+[大赛链接](https://tianchi.aliyun.com/competition/entrance/231688/introduction?spm=5176.12281915.0.0.72c510bdrS25xw)
 ## 数据集
 训练数据：200万；验证数据：5万；测试数据1:5万；测试数据2:25万；数据位于`data`文件夹
 
