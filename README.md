@@ -27,3 +27,5 @@ label | 是否点击 |
 - 尝试过FFM模型，效果不是很好，原因应该是给的数据特征维度不够
 
 - 最后考虑到数据实在太大，本地计算机性能有限，没有使用xgboost而是使用ligthgbm。代码位于`codes/LgbModel.py`
+
+dfaffefdfdvd
