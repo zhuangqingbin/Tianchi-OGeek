@@ -28,4 +28,4 @@ label | 是否点击 |
 
 - 最后考虑到数据实在太大，本地计算机性能有限，没有使用xgboost而是使用ligthgbm。代码位于`codes/LgbModel.py`
 
-dfaffefdfdvd
+
